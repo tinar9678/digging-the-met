@@ -5,6 +5,8 @@ import "./Gallery.css"
 export const Gallery = () => {
     
     return (
-        <div className="art-gallery-wrapper"></div>
+        <div className="art-gallery-wrapper">
+            
+        </div>
     )
 };
