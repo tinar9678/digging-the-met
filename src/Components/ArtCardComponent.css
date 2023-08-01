@@ -1,0 +1,11 @@
+.art-card-wrapper {
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    box-shadow: 0px 0px 5px grey;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
