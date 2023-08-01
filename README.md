@@ -4,16 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Functionalities of this app:
 
-- Search for your favorite artpieces from the Met\
-- See their images / date / title\
-- Filter the artpieces by:\
-    - art piece finished date\
-    - if image can be loaded\
-    - alphabetically\
+- Search for your favorite artpieces from the Met
+- See their images / date / title
+- Filter the artpieces by:
+    - art piece finished date
+    - if image can be loaded
+    - alphabetically
 
 ## Limits of this app:
 
-- Search may take a while if the search term entered is broad. However, rest assured that recently searched items will load much faster!\
+- Search may take a while if the search term entered is broad. However, rest assured that recently searched items will load much faster!
 - The UI of the art grid is in progress. Feedback welcome! 
 
 ## To start the app:
